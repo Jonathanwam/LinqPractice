@@ -1,0 +1,11 @@
+C:\Users\Jonathan\Documents\Revature\linqpractice\obj\Debug\netcoreapp2.1\linqpractice.csprojAssemblyReference.cache
+C:\Users\Jonathan\Documents\Revature\linqpractice\obj\Debug\netcoreapp2.1\linqpractice.csproj.CoreCompileInputs.cache
+C:\Users\Jonathan\Documents\Revature\linqpractice\obj\Debug\netcoreapp2.1\linqpractice.AssemblyInfoInputs.cache
+C:\Users\Jonathan\Documents\Revature\linqpractice\obj\Debug\netcoreapp2.1\linqpractice.AssemblyInfo.cs
+C:\Users\Jonathan\Documents\Revature\linqpractice\bin\Debug\netcoreapp2.1\linqpractice.deps.json
+C:\Users\Jonathan\Documents\Revature\linqpractice\bin\Debug\netcoreapp2.1\linqpractice.runtimeconfig.json
+C:\Users\Jonathan\Documents\Revature\linqpractice\bin\Debug\netcoreapp2.1\linqpractice.runtimeconfig.dev.json
+C:\Users\Jonathan\Documents\Revature\linqpractice\bin\Debug\netcoreapp2.1\linqpractice.dll
+C:\Users\Jonathan\Documents\Revature\linqpractice\bin\Debug\netcoreapp2.1\linqpractice.pdb
+C:\Users\Jonathan\Documents\Revature\linqpractice\obj\Debug\netcoreapp2.1\linqpractice.dll
+C:\Users\Jonathan\Documents\Revature\linqpractice\obj\Debug\netcoreapp2.1\linqpractice.pdb
