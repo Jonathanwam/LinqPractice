@@ -23,14 +23,27 @@ namespace linqpractice
         customers.Add(c5);
         customers.Add(c6);
         var queryPortlandCustomers = 
-            from cust in customers
-            where cust.city == "Portland"
-            orderby cust.firstname ascending
-            select cust;
+            from c in customers
+            where c.city == "Portland"
+            orderby c.firstname ascending
+            select c;
 
-        Console.WriteLine("List of customers from Portland");
+        Console.WriteLine("List of customers from Portland:");
         foreach (Customer c in queryPortlandCustomers)
-            Console.WriteLine(c.firstname);
+            Console.Write(c.firstname + ", ");
+
+        Console.Write("\n---------------------------\n");
+
+        // LINQ with anon type
+
+        var namesOnly = customers.Select(item =>
+        new {
+            fName = item.firstname
+        });
+
+        Console.WriteLine("List of all names:");
+        foreach(var n in namesOnly)
+            Console.Write(n.fName + ", ");
         }
 
     }
